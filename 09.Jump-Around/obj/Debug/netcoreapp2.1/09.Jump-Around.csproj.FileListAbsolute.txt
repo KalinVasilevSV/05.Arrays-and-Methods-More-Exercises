@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\bin\Debug\netcoreapp2.1\09.Jump-Around.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\bin\Debug\netcoreapp2.1\09.Jump-Around.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\bin\Debug\netcoreapp2.1\09.Jump-Around.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\bin\Debug\netcoreapp2.1\09.Jump-Around.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\bin\Debug\netcoreapp2.1\09.Jump-Around.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\obj\Debug\netcoreapp2.1\09.Jump-Around.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\obj\Debug\netcoreapp2.1\09.Jump-Around.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\obj\Debug\netcoreapp2.1\09.Jump-Around.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\obj\Debug\netcoreapp2.1\09.Jump-Around.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\obj\Debug\netcoreapp2.1\09.Jump-Around.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\09.Jump-Around\obj\Debug\netcoreapp2.1\09.Jump-Around.pdb

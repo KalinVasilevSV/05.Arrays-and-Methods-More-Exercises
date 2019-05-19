@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\bin\Debug\netcoreapp2.1\03.Safe-Manipulation.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\bin\Debug\netcoreapp2.1\03.Safe-Manipulation.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\bin\Debug\netcoreapp2.1\03.Safe-Manipulation.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\bin\Debug\netcoreapp2.1\03.Safe-Manipulation.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\bin\Debug\netcoreapp2.1\03.Safe-Manipulation.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\obj\Debug\netcoreapp2.1\03.Safe-Manipulation.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\obj\Debug\netcoreapp2.1\03.Safe-Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\obj\Debug\netcoreapp2.1\03.Safe-Manipulation.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\obj\Debug\netcoreapp2.1\03.Safe-Manipulation.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\obj\Debug\netcoreapp2.1\03.Safe-Manipulation.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\03.Safe-Manipulation\obj\Debug\netcoreapp2.1\03.Safe-Manipulation.pdb

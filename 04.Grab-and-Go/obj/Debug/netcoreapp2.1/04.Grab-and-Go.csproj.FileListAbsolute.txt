@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\bin\Debug\netcoreapp2.1\04.Grab-and-Go.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\bin\Debug\netcoreapp2.1\04.Grab-and-Go.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\bin\Debug\netcoreapp2.1\04.Grab-and-Go.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\bin\Debug\netcoreapp2.1\04.Grab-and-Go.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\bin\Debug\netcoreapp2.1\04.Grab-and-Go.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\obj\Debug\netcoreapp2.1\04.Grab-and-Go.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\obj\Debug\netcoreapp2.1\04.Grab-and-Go.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\obj\Debug\netcoreapp2.1\04.Grab-and-Go.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\obj\Debug\netcoreapp2.1\04.Grab-and-Go.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\obj\Debug\netcoreapp2.1\04.Grab-and-Go.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\04.Grab-and-Go\obj\Debug\netcoreapp2.1\04.Grab-and-Go.pdb

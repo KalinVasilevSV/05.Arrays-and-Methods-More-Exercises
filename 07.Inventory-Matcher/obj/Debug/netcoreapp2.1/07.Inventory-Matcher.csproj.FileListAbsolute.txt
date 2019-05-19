@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\bin\Debug\netcoreapp2.1\07.Inventory-Matcher.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\bin\Debug\netcoreapp2.1\07.Inventory-Matcher.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\bin\Debug\netcoreapp2.1\07.Inventory-Matcher.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\bin\Debug\netcoreapp2.1\07.Inventory-Matcher.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\bin\Debug\netcoreapp2.1\07.Inventory-Matcher.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\obj\Debug\netcoreapp2.1\07.Inventory-Matcher.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\obj\Debug\netcoreapp2.1\07.Inventory-Matcher.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\obj\Debug\netcoreapp2.1\07.Inventory-Matcher.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\obj\Debug\netcoreapp2.1\07.Inventory-Matcher.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\obj\Debug\netcoreapp2.1\07.Inventory-Matcher.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\07.Inventory-Matcher\obj\Debug\netcoreapp2.1\07.Inventory-Matcher.pdb

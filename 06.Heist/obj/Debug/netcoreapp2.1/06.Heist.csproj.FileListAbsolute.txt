@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\bin\Debug\netcoreapp2.1\06.Heist.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\bin\Debug\netcoreapp2.1\06.Heist.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\bin\Debug\netcoreapp2.1\06.Heist.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\bin\Debug\netcoreapp2.1\06.Heist.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\bin\Debug\netcoreapp2.1\06.Heist.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\obj\Debug\netcoreapp2.1\06.Heist.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\obj\Debug\netcoreapp2.1\06.Heist.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\obj\Debug\netcoreapp2.1\06.Heist.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\obj\Debug\netcoreapp2.1\06.Heist.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\obj\Debug\netcoreapp2.1\06.Heist.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\06.Heist\obj\Debug\netcoreapp2.1\06.Heist.pdb

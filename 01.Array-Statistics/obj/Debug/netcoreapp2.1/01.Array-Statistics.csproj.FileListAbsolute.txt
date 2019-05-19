@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\bin\Debug\netcoreapp2.1\01.Array-Statistics.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\bin\Debug\netcoreapp2.1\01.Array-Statistics.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\bin\Debug\netcoreapp2.1\01.Array-Statistics.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\bin\Debug\netcoreapp2.1\01.Array-Statistics.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\bin\Debug\netcoreapp2.1\01.Array-Statistics.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\obj\Debug\netcoreapp2.1\01.Array-Statistics.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\obj\Debug\netcoreapp2.1\01.Array-Statistics.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\obj\Debug\netcoreapp2.1\01.Array-Statistics.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\obj\Debug\netcoreapp2.1\01.Array-Statistics.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\obj\Debug\netcoreapp2.1\01.Array-Statistics.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\01.Array-Statistics\obj\Debug\netcoreapp2.1\01.Array-Statistics.pdb

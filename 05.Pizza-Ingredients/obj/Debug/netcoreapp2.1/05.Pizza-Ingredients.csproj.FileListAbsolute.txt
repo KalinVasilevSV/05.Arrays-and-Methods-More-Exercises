@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\bin\Debug\netcoreapp2.1\05.Pizza-Ingredients.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\bin\Debug\netcoreapp2.1\05.Pizza-Ingredients.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\bin\Debug\netcoreapp2.1\05.Pizza-Ingredients.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\bin\Debug\netcoreapp2.1\05.Pizza-Ingredients.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\bin\Debug\netcoreapp2.1\05.Pizza-Ingredients.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\obj\Debug\netcoreapp2.1\05.Pizza-Ingredients.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\obj\Debug\netcoreapp2.1\05.Pizza-Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\obj\Debug\netcoreapp2.1\05.Pizza-Ingredients.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\obj\Debug\netcoreapp2.1\05.Pizza-Ingredients.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\obj\Debug\netcoreapp2.1\05.Pizza-Ingredients.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\05.Arrays-and-Methods-More-Exercises\05.Pizza-Ingredients\obj\Debug\netcoreapp2.1\05.Pizza-Ingredients.pdb
